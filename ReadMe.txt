@@ -1,0 +1,2 @@
+﻿update-database identity -context ApplicationDbContext
+update-database employee -context Employement_Project_MVCContext
